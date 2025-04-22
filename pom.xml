@@ -19,7 +19,7 @@
     <maven.compiler.target>1.21</maven.compiler.target>
     <encoding>UTF-8</encoding>
     <scala.version>2.13.16</scala.version>
-    <teavm.version>0.10.2</teavm.version>
+    <teavm.version>0.11.0</teavm.version>
   </properties>
 
   <dependencies>
